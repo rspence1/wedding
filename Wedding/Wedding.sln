@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wedding", "Wedding\Wedding.csproj", "{81D0F644-DC1F-43BF-A1CA-476D3B2E593F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeddingApi", "WeddingApi\WeddingApi.csproj", "{7A79C27F-2C26-41BA-A39C-0E436C49ED02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D0F644-DC1F-43BF-A1CA-476D3B2E593F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D0F644-DC1F-43BF-A1CA-476D3B2E593F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D0F644-DC1F-43BF-A1CA-476D3B2E593F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D0F644-DC1F-43BF-A1CA-476D3B2E593F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A79C27F-2C26-41BA-A39C-0E436C49ED02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A79C27F-2C26-41BA-A39C-0E436C49ED02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A79C27F-2C26-41BA-A39C-0E436C49ED02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A79C27F-2C26-41BA-A39C-0E436C49ED02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81DC8B40-EE30-4D4C-882B-11B9756F8FC7}
+	EndGlobalSection
+EndGlobal
